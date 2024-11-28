@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-25T14:12:50Z" name="Default suite" finished-at="2024-11-25T14:12:55Z" duration-ms="5229">
+    <groups>
+    </groups>
+    <test started-at="2024-11-25T14:12:50Z" name="Default test" finished-at="2024-11-25T14:12:55Z" duration-ms="5229">
+      <class name="invocationTest.InvocationTest">
+        <test-method signature="testings()[pri:0, instance:invocationTest.InvocationTest@465232e9]" started-at="2024-11-25T14:12:50Z" name="testings" finished-at="2024-11-25T14:12:55Z" duration-ms="5210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testings -->
+        <test-method signature="testings()[pri:0, instance:invocationTest.InvocationTest@465232e9]" started-at="2024-11-25T14:12:50Z" name="testings" finished-at="2024-11-25T14:12:55Z" duration-ms="4829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testings -->
+        <test-method signature="testings()[pri:0, instance:invocationTest.InvocationTest@465232e9]" started-at="2024-11-25T14:12:50Z" name="testings" finished-at="2024-11-25T14:12:55Z" duration-ms="4823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testings -->
+        <test-method signature="testings()[pri:0, instance:invocationTest.InvocationTest@465232e9]" started-at="2024-11-25T14:12:50Z" name="testings" finished-at="2024-11-25T14:12:55Z" duration-ms="4812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testings -->
+        <test-method signature="testings()[pri:0, instance:invocationTest.InvocationTest@465232e9]" started-at="2024-11-25T14:12:50Z" name="testings" finished-at="2024-11-25T14:12:55Z" duration-ms="4817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testings -->
+      </class> <!-- invocationTest.InvocationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

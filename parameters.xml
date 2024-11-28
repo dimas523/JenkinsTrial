@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+	<test name="Regression Login Test">
+		<parameter name="browser" value="firefox"></parameter>
+		<parameter name="env" value="tae"></parameter>
+		<classes>
+			<class name="testcases.TestParameterizationFromXML" />
+		</classes>
+	</test> <!--
+	Test -->
+
+	<test name="Regression Login Test2">
+		<parameter name="browser" value="firefox2"></parameter>
+		<parameter name="env" value="eat"></parameter>
+		<classes>
+			<class name="testcases.TestParameterizationFromXML" />
+		</classes>
+	</test> <!--
+	Test -->
+
+	<test name="Regression Validate Dependency Test">
+		<classes>
+			<class name="regression.TestCase2" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Regression Suite -->
